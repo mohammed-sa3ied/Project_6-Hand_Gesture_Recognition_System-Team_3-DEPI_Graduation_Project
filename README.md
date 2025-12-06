@@ -178,11 +178,11 @@ The real-time detection system performs reliably under typical lighting conditio
 
 ## 👥 Team
 
+*   Mohammed Saied — [LinkedIn](https://www.linkedin.com/in/mohammed-sa3ied?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 *   Aya Ashraf — [LinkedIn](https://www.linkedin.com/in/aya-ashraf15?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 *   Tasnim Qutb — [LinkedIn](https://www.linkedin.com/in/tasnim-qotb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 *   Ahmed Barakat — [LinkedIn](https://www.linkedin.com/in/ahmad-barakat-4a16101b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 *   Mohammed Osama — [LinkedIn](https://www.linkedin.com/in/mohamed-abdulhalem?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-*   Mohammed Saied — [LinkedIn](https://www.linkedin.com/in/mohammed-sa3ied?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
