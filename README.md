@@ -101,7 +101,8 @@ To run this project locally, follow these steps:
 4.  **Launch the Streamlit UI**
     Run the following command to start the real-time gesture recognition app:
     ```bash
-    streamlit run "Streamlit UI App/app.py"
+    cd "Streamlit UI App"
+    streamlit run app.py
     ```
     
 ---
