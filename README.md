@@ -71,25 +71,35 @@ The system supports custom CNN models (tailored to the dataset and gestures)
 
 To run this project locally, follow these steps:
 
-```bash
-# Clone the repository
-git clone https://github.com/ahmedbarakatt1/Project-6-Hand-Gesture-Recognition-System--Team-3.git
-cd Project-6-Hand-Gesture-Recognition-System--Team-3
-```
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/ahmedbarakatt1/Project-6-Hand-Gesture-Recognition-System--Team-3.git](https://github.com/ahmedbarakatt1/Project-6-Hand-Gesture-Recognition-System--Team-3.git)
+    cd Project-6-Hand-Gesture-Recognition-System--Team-3
+    ```
 
-(Optional) create a virtual environment
-python -m venv venv
-source venv/bin/activate        # On Windows: venv\Scripts\activate
+2.  **Create and activate a virtual environment (Optional)**
+    ```bash
+    # Create the environment
+    python -m venv venv
 
-Install dependencies
-pip install -r requirements.txt
+    # Activate the environment
+    # Windows:
+    venv\Scripts\activate
+    # Mac/Linux:
+    source venv/bin/activate
+    ```
 
-To launch the Streamlit UI for real-time gesture recognition:
+3.  **Install dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-```bash
-streamlit run "Streamlit UI App/app.py"
-```
-
+4.  **Launch the Streamlit UI**
+    Run the following command to start the real-time gesture recognition app:
+    ```bash
+    streamlit run "Streamlit UI App/app.py"
+    ```
+    
 ---
 
 ## 🗂️ Dataset & Preprocessing
