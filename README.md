@@ -7,17 +7,19 @@ A deep-learning powered system that recognizes hand gestures from images and rea
 ---
 
 ## 📄 Table of Contents
-- [Overview](#overview)  
-- [DEPI Graduation Project Statement](#depi-graduation-project-statement)  
-- [Features](#features)  
-- [Model Architecture](#model-architecture)  
-- [Project Structure](#project-structure)  
-- [Installation](#installation)  
-- [Dataset & Preprocessing](#dataset--preprocessing)  
-- [Training & Evaluation](#training--evaluation)  
-- [Real-Time Gesture Recognition](#real-time-gesture-recognition)  
-- [Results](#results)  
-- [Team](#team)  
+* [Overview](#overview)
+* [DEPI Graduation Project Statement](#depi-graduation-project-statement)
+* [Features](#features)
+* [Model Architecture](#model-architecture)
+* [Project Structure](#project-structure)
+* [Installation](#installation)
+* [Dataset & Preprocessing](#dataset--preprocessing)
+* [Training & Evaluation](#training--evaluation)
+* [Real-Time Gesture Recognition](#real-time-gesture-recognition)
+* [Results](#results)
+* [Team](#team)
+* [Acknowledgments](#acknowledgments)
+* [License](#license)
 
 ---
 
