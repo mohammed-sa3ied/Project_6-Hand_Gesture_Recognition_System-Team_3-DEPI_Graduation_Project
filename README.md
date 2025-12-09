@@ -34,7 +34,7 @@ This work includes:
 ---
 
 ## 🎓 DEPI Graduation Project Statement  
-This repository contains the graduation project of DEPI for the Microsoft Machine Learning Program. It represents our final applied project, showcasing practical machine learning skills in computer vision, deep learning, and real-time AI deployment.
+This repository contains the graduation project of DEPI for the Microsoft Machine Learning Engineer Program. It represents our final applied project, showcasing practical machine learning skills in computer vision, deep learning, and real-time AI deployment.
 
 ---
 
